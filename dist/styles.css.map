@@ -1,0 +1,1 @@
+{"version":3,"sources":["styles.scss"],"names":[],"mappings":"AAAA,KACI,QAAS,CACT,SAAU,CACV,qBAAsB,CACtB,uCAA4C,CAC5C,cAAe","file":"styles.css","sourcesContent":["html {\n    margin: 0;\n    padding: 0;\n    box-sizing: border-box;\n    font-family: \"Roboto\", monospace, sans-serif;\n    font-size: 100%;\n}\n"]}
